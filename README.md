@@ -20,14 +20,14 @@ Information
 =======
 * Sensor
   |name|id|values|
-  |====|==|======|
+  |----|--|------|
   |air-dust|6|ultrafine-dust, fine-dust|
   |air-temp|7|temperature, relative-humidity|
   |air-noise|8|noise|
 
 * node
   |sink|name|id|sensors|
-  |====|====|==|======|
+  |----|----|--|------|
   |2|영등포구|2~61|air-dust, air-temp, air-noise|
   |3|관악구|62~121|air-dust, air-temp, air-noise|
   |4|동작구|122~181|air-dust, air-temp, air-noise|
